@@ -3,7 +3,7 @@ spring:
     name: transporter-download
 
 test:
-  message: local1
+  message: local2
   status: 300
 
 server:
