@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: transporter-download
+
+test:
+  message: Bye
+  status: 300
+
+server:
+  port: 8083

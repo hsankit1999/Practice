@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: transporter-download
+
+server:
+  port: 8083
